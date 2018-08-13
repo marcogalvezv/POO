@@ -1,0 +1,7 @@
+c:\users\marco\documents\visual studio 2017\Projects\OOPClass1\OOPClass1\bin\Debug\OOPClass1.exe.config
+c:\users\marco\documents\visual studio 2017\Projects\OOPClass1\OOPClass1\bin\Debug\OOPClass1.exe
+c:\users\marco\documents\visual studio 2017\Projects\OOPClass1\OOPClass1\bin\Debug\OOPClass1.pdb
+c:\users\marco\documents\visual studio 2017\Projects\OOPClass1\OOPClass1\obj\Debug\OOPClass1.csprojAssemblyReference.cache
+c:\users\marco\documents\visual studio 2017\Projects\OOPClass1\OOPClass1\obj\Debug\OOPClass1.csproj.CoreCompileInputs.cache
+c:\users\marco\documents\visual studio 2017\Projects\OOPClass1\OOPClass1\obj\Debug\OOPClass1.exe
+c:\users\marco\documents\visual studio 2017\Projects\OOPClass1\OOPClass1\obj\Debug\OOPClass1.pdb
